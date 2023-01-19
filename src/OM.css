@@ -1,0 +1,19 @@
+table {
+    text-align: center;
+    width: auto;
+    height: auto;
+    background-color:wheat;
+}
+th {
+    width: 60vh;
+    height: auto;
+    font-size: larger;
+    background-color: aqua;
+}
+td {
+    max-width: auto;
+    background-color: blanchedalmond;
+    word-wrap:break-word;
+}
+    
+
